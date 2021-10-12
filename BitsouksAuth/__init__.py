@@ -1,6 +1,5 @@
-from bitsouksAuth.libs import * 
-from bitsouksAuth.countries import * 
-from bitsouksAuth.devices import * 
-from bitsouksAuth.settings import * 
-from bitsouksAuth.user_pool import * 
-
+from BitsouksAuth.libs import * 
+from BitsouksAuth.countries import * 
+from BitsouksAuth.devices import * 
+from BitsouksAuth.settings import * 
+from BitsouksAuth.user_pool import * 
