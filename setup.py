@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
-  name = 'bitsouksAuth',
-  packages = ['bitsouksAuth'],
-  version = '0.13',
+  name = 'BitsouksAuth',
+  packages = ['BitsouksAuth'],
+  version = '0.12',
   license='MIT',
   description = 'Cognito Auth',
   author = 'Hassan moussa',
