@@ -1,18 +1,17 @@
 from distutils.core import setup
 setup(
-  name = 'bitsouks_auth',
-  packages = ['bitsouks_auth'],
+  name = 'bitsouksAuth',
+  packages = ['bitsouksAuth'],
   version = '0.12',
   license='MIT',
   description = 'Cognito Auth',
   author = 'Hassan moussa',
   author_email = 'hassanmoussa@lereum.com',
-  url = 'https://github.com/joelbarmettlerUZH/Scrapeasy',
-  download_url = 'https://github.com/joelbarmettlerUZH/Scrapeasy/archive/pypi-0_1_3.tar.gz',
+  url = 'https://github.com/hassanmoussa123/bitsouks_auth',
+  download_url = 'https://github.com/hassanmoussa123/bitsouks_auth/archive/refs/tags/v1.tar.gz',
   keywords = [],
   install_requires=[
-          'validators',
-          'beautifulsoup4',
+          'boto3',
       ],
   classifiers=[  # Optional
     # How mature is this project? Common values are
