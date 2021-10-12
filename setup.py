@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'BitsouksAuth',
   packages = ['BitsouksAuth'],
-  version = '0.12',
+  version = '0.13',
   license='MIT',
   description = 'Cognito Auth',
   author = 'Hassan moussa',
